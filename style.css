@@ -1,0 +1,36 @@
+
+
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Center the content vertically and horizontally */
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+  
+  /* Style the buttons */
+  button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+  }
+  
+  /* Add some spacing between the h1 and buttons */
+   h1 {
+    color: #3498db;
+
+  }
+  
